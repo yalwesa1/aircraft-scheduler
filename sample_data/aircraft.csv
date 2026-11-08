@@ -1,0 +1,7 @@
+aircraft_id,base,seats,range_nm,speed_knots,cost_per_hour,available_min
+DEMO-01,HPN,13,5000,480,6500,0
+DEMO-02,BFI,7,1800,400,2600,0
+DEMO-03,IAD,9,3000,450,4200,0
+DEMO-04,BED,7,1800,400,2600,0
+DEMO-05,HPN,13,5000,480,6500,0
+DEMO-06,BFI,13,5000,480,6500,0

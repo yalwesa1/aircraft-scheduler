@@ -1,0 +1,1212 @@
+{
+  "best": {
+    "objective": 1123315.0,
+    "operating_cost": 268015.0,
+    "delay_minutes": 598.0,
+    "reposition_minutes": 1132.0,
+    "served": 16,
+    "unserved_count": 8,
+    "legs": [
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-011",
+        "kind": "Reposition",
+        "origin": "BED",
+        "destination": "MDW",
+        "start_min": 0,
+        "end_min": 125,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-011",
+        "kind": "Passenger",
+        "origin": "MDW",
+        "destination": "PDK",
+        "start_min": 163,
+        "end_min": 254,
+        "delay_min": 0,
+        "passengers": 5
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-018",
+        "kind": "Reposition",
+        "origin": "HPN",
+        "destination": "IAD",
+        "start_min": 0,
+        "end_min": 42,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-018",
+        "kind": "Passenger",
+        "origin": "IAD",
+        "destination": "LAS",
+        "start_min": 644,
+        "end_min": 883,
+        "delay_min": 0,
+        "passengers": 5
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-005",
+        "kind": "Passenger",
+        "origin": "BFI",
+        "destination": "DAL",
+        "start_min": 696,
+        "end_min": 929,
+        "delay_min": 0,
+        "passengers": 6
+      },
+      {
+        "aircraft": "DEMO-03",
+        "request_id": "REQ-024",
+        "kind": "Reposition",
+        "origin": "IAD",
+        "destination": "MDW",
+        "start_min": 0,
+        "end_min": 82,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-03",
+        "request_id": "REQ-024",
+        "kind": "Passenger",
+        "origin": "MDW",
+        "destination": "LAS",
+        "start_min": 864,
+        "end_min": 1055,
+        "delay_min": 0,
+        "passengers": 3
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-013",
+        "kind": "Reposition",
+        "origin": "PDK",
+        "destination": "OPF",
+        "start_min": 284,
+        "end_min": 378,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-013",
+        "kind": "Passenger",
+        "origin": "OPF",
+        "destination": "DAL",
+        "start_min": 429,
+        "end_min": 589,
+        "delay_min": 0,
+        "passengers": 6
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-002",
+        "kind": "Reposition",
+        "origin": "HPN",
+        "destination": "TEB",
+        "start_min": 0,
+        "end_min": 18,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-002",
+        "kind": "Passenger",
+        "origin": "TEB",
+        "destination": "BED",
+        "start_min": 447,
+        "end_min": 482,
+        "delay_min": 0,
+        "passengers": 5
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-004",
+        "kind": "Reposition",
+        "origin": "BFI",
+        "destination": "APA",
+        "start_min": 0,
+        "end_min": 127,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-004",
+        "kind": "Passenger",
+        "origin": "APA",
+        "destination": "LAS",
+        "start_min": 569,
+        "end_min": 651,
+        "delay_min": 0,
+        "passengers": 2
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-006",
+        "kind": "Reposition",
+        "origin": "BED",
+        "destination": "IAD",
+        "start_min": 512,
+        "end_min": 571,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-006",
+        "kind": "Passenger",
+        "origin": "IAD",
+        "destination": "BNA",
+        "start_min": 689,
+        "end_min": 763,
+        "delay_min": 0,
+        "passengers": 3
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-008",
+        "kind": "Reposition",
+        "origin": "LAS",
+        "destination": "MDW",
+        "start_min": 681,
+        "end_min": 861,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-008",
+        "kind": "Passenger",
+        "origin": "MDW",
+        "destination": "TEB",
+        "start_min": 940,
+        "end_min": 1033,
+        "delay_min": 0,
+        "passengers": 10
+      },
+      {
+        "aircraft": "DEMO-03",
+        "request_id": "REQ-009",
+        "kind": "Reposition",
+        "origin": "LAS",
+        "destination": "DAL",
+        "start_min": 1085,
+        "end_min": 1224,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-03",
+        "request_id": "REQ-009",
+        "kind": "Passenger",
+        "origin": "DAL",
+        "destination": "HPN",
+        "start_min": 1254,
+        "end_min": 1431,
+        "delay_min": 124,
+        "passengers": 6
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-012",
+        "kind": "Passenger",
+        "origin": "DAL",
+        "destination": "PDK",
+        "start_min": 928,
+        "end_min": 1038,
+        "delay_min": 0,
+        "passengers": 7
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-021",
+        "kind": "Reposition",
+        "origin": "LAS",
+        "destination": "BFI",
+        "start_min": 913,
+        "end_min": 1023,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-021",
+        "kind": "Passenger",
+        "origin": "BFI",
+        "destination": "VNY",
+        "start_min": 1053,
+        "end_min": 1171,
+        "delay_min": 176,
+        "passengers": 8
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-019",
+        "kind": "Passenger",
+        "origin": "DAL",
+        "destination": "BFI",
+        "start_min": 959,
+        "end_min": 1192,
+        "delay_min": 20,
+        "passengers": 4
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-007",
+        "kind": "Reposition",
+        "origin": "BNA",
+        "destination": "DAL",
+        "start_min": 793,
+        "end_min": 876,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-007",
+        "kind": "Passenger",
+        "origin": "DAL",
+        "destination": "HPN",
+        "start_min": 906,
+        "end_min": 1073,
+        "delay_min": 171,
+        "passengers": 7
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-022",
+        "kind": "Reposition",
+        "origin": "TEB",
+        "destination": "IAD",
+        "start_min": 1063,
+        "end_min": 1103,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-022",
+        "kind": "Passenger",
+        "origin": "IAD",
+        "destination": "BED",
+        "start_min": 1133,
+        "end_min": 1192,
+        "delay_min": 90,
+        "passengers": 9
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-020",
+        "kind": "Reposition",
+        "origin": "HPN",
+        "destination": "BED",
+        "start_min": 1103,
+        "end_min": 1136,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-020",
+        "kind": "Passenger",
+        "origin": "BED",
+        "destination": "PDK",
+        "start_min": 1166,
+        "end_min": 1282,
+        "delay_min": 17,
+        "passengers": 10
+      }
+    ],
+    "unserved": [
+      {
+        "request_id": "REQ-016",
+        "origin": "LAS",
+        "destination": "OPF",
+        "requested_min": 114,
+        "passengers": 5,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-04",
+        "reason": "Nonstop range"
+      },
+      {
+        "request_id": "REQ-023",
+        "origin": "MDW",
+        "destination": "TEB",
+        "requested_min": 224,
+        "passengers": 4,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-010",
+        "origin": "VNY",
+        "destination": "IAD",
+        "requested_min": 142,
+        "passengers": 2,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-017",
+        "origin": "MDW",
+        "destination": "OPF",
+        "requested_min": 821,
+        "passengers": 6,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-014",
+        "origin": "VNY",
+        "destination": "BFI",
+        "requested_min": 350,
+        "passengers": 10,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-06",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-001",
+        "origin": "SDL",
+        "destination": "HPN",
+        "requested_min": 1209,
+        "passengers": 8,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-02",
+        "reason": "Seat capacity"
+      },
+      {
+        "request_id": "REQ-003",
+        "origin": "SDL",
+        "destination": "IAD",
+        "requested_min": 1116,
+        "passengers": 8,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-05",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-015",
+        "origin": "BED",
+        "destination": "SDL",
+        "requested_min": 777,
+        "passengers": 6,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-06",
+        "reason": "Departure delay limit"
+      }
+    ]
+  },
+  "baseline": {
+    "objective": 2202211.666666667,
+    "operating_cost": 279461.6666666667,
+    "delay_minutes": 348.0,
+    "reposition_minutes": 1669.0,
+    "served": 13,
+    "unserved_count": 11,
+    "legs": [
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-016",
+        "kind": "Reposition",
+        "origin": "BFI",
+        "destination": "LAS",
+        "start_min": 0,
+        "end_min": 110,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-016",
+        "kind": "Passenger",
+        "origin": "LAS",
+        "destination": "OPF",
+        "start_min": 140,
+        "end_min": 391,
+        "delay_min": 26,
+        "passengers": 5
+      },
+      {
+        "aircraft": "DEMO-03",
+        "request_id": "REQ-010",
+        "kind": "Reposition",
+        "origin": "IAD",
+        "destination": "VNY",
+        "start_min": 0,
+        "end_min": 280,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-03",
+        "request_id": "REQ-010",
+        "kind": "Passenger",
+        "origin": "VNY",
+        "destination": "IAD",
+        "start_min": 310,
+        "end_min": 590,
+        "delay_min": 168,
+        "passengers": 2
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-011",
+        "kind": "Reposition",
+        "origin": "BED",
+        "destination": "MDW",
+        "start_min": 0,
+        "end_min": 125,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-011",
+        "kind": "Passenger",
+        "origin": "MDW",
+        "destination": "PDK",
+        "start_min": 163,
+        "end_min": 254,
+        "delay_min": 0,
+        "passengers": 5
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-023",
+        "kind": "Reposition",
+        "origin": "BFI",
+        "destination": "MDW",
+        "start_min": 0,
+        "end_min": 241,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-023",
+        "kind": "Passenger",
+        "origin": "MDW",
+        "destination": "TEB",
+        "start_min": 271,
+        "end_min": 379,
+        "delay_min": 47,
+        "passengers": 4
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-014",
+        "kind": "Reposition",
+        "origin": "HPN",
+        "destination": "VNY",
+        "start_min": 0,
+        "end_min": 284,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-014",
+        "kind": "Passenger",
+        "origin": "VNY",
+        "destination": "BFI",
+        "start_min": 350,
+        "end_min": 468,
+        "delay_min": 0,
+        "passengers": 10
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-013",
+        "kind": "Reposition",
+        "origin": "PDK",
+        "destination": "OPF",
+        "start_min": 284,
+        "end_min": 378,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-013",
+        "kind": "Passenger",
+        "origin": "OPF",
+        "destination": "DAL",
+        "start_min": 429,
+        "end_min": 589,
+        "delay_min": 0,
+        "passengers": 6
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-002",
+        "kind": "Passenger",
+        "origin": "TEB",
+        "destination": "BED",
+        "start_min": 447,
+        "end_min": 486,
+        "delay_min": 0,
+        "passengers": 5
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-004",
+        "kind": "Reposition",
+        "origin": "HPN",
+        "destination": "APA",
+        "start_min": 0,
+        "end_min": 193,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-004",
+        "kind": "Passenger",
+        "origin": "APA",
+        "destination": "LAS",
+        "start_min": 569,
+        "end_min": 651,
+        "delay_min": 0,
+        "passengers": 2
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-006",
+        "kind": "Reposition",
+        "origin": "BED",
+        "destination": "IAD",
+        "start_min": 516,
+        "end_min": 584,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-02",
+        "request_id": "REQ-006",
+        "kind": "Passenger",
+        "origin": "IAD",
+        "destination": "BNA",
+        "start_min": 689,
+        "end_min": 775,
+        "delay_min": 0,
+        "passengers": 3
+      },
+      {
+        "aircraft": "DEMO-01",
+        "request_id": "REQ-005",
+        "kind": "Passenger",
+        "origin": "BFI",
+        "destination": "DAL",
+        "start_min": 696,
+        "end_min": 893,
+        "delay_min": 0,
+        "passengers": 6
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-007",
+        "kind": "Reposition",
+        "origin": "LAS",
+        "destination": "DAL",
+        "start_min": 681,
+        "end_min": 812,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-05",
+        "request_id": "REQ-007",
+        "kind": "Passenger",
+        "origin": "DAL",
+        "destination": "HPN",
+        "start_min": 842,
+        "end_min": 1009,
+        "delay_min": 107,
+        "passengers": 7
+      },
+      {
+        "aircraft": "DEMO-04",
+        "request_id": "REQ-012",
+        "kind": "Passenger",
+        "origin": "DAL",
+        "destination": "PDK",
+        "start_min": 928,
+        "end_min": 1038,
+        "delay_min": 0,
+        "passengers": 7
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-008",
+        "kind": "Reposition",
+        "origin": "OPF",
+        "destination": "MDW",
+        "start_min": 421,
+        "end_min": 564,
+        "delay_min": 0,
+        "passengers": 0
+      },
+      {
+        "aircraft": "DEMO-06",
+        "request_id": "REQ-008",
+        "kind": "Passenger",
+        "origin": "MDW",
+        "destination": "TEB",
+        "start_min": 940,
+        "end_min": 1033,
+        "delay_min": 0,
+        "passengers": 10
+      }
+    ],
+    "unserved": [
+      {
+        "request_id": "REQ-018",
+        "origin": "IAD",
+        "destination": "LAS",
+        "requested_min": 644,
+        "passengers": 5,
+        "priority": 3,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Aircraft block-hour limit"
+      },
+      {
+        "request_id": "REQ-015",
+        "origin": "BED",
+        "destination": "SDL",
+        "requested_min": 777,
+        "passengers": 6,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-017",
+        "origin": "MDW",
+        "destination": "OPF",
+        "requested_min": 821,
+        "passengers": 6,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-024",
+        "origin": "MDW",
+        "destination": "LAS",
+        "requested_min": 864,
+        "passengers": 3,
+        "priority": 3,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-021",
+        "origin": "BFI",
+        "destination": "VNY",
+        "requested_min": 877,
+        "passengers": 8,
+        "priority": 2,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Departure delay limit"
+      },
+      {
+        "request_id": "REQ-019",
+        "origin": "DAL",
+        "destination": "BFI",
+        "requested_min": 939,
+        "passengers": 4,
+        "priority": 2,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Aircraft block-hour limit"
+      },
+      {
+        "request_id": "REQ-022",
+        "origin": "IAD",
+        "destination": "BED",
+        "requested_min": 1043,
+        "passengers": 9,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Aircraft block-hour limit"
+      },
+      {
+        "request_id": "REQ-003",
+        "origin": "SDL",
+        "destination": "IAD",
+        "requested_min": 1116,
+        "passengers": 8,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Aircraft block-hour limit"
+      },
+      {
+        "request_id": "REQ-009",
+        "origin": "DAL",
+        "destination": "HPN",
+        "requested_min": 1130,
+        "passengers": 6,
+        "priority": 2,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Aircraft block-hour limit"
+      },
+      {
+        "request_id": "REQ-020",
+        "origin": "BED",
+        "destination": "PDK",
+        "requested_min": 1149,
+        "passengers": 10,
+        "priority": 2,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Aircraft block-hour limit"
+      },
+      {
+        "request_id": "REQ-001",
+        "origin": "SDL",
+        "destination": "HPN",
+        "requested_min": 1209,
+        "passengers": 8,
+        "priority": 1,
+        "assigned_aircraft": "DEMO-01",
+        "reason": "Planning horizon"
+      }
+    ]
+  },
+  "history": [
+    {
+      "generation": 0,
+      "best_objective": 2202211.666666667
+    },
+    {
+      "generation": 1,
+      "best_objective": 1847550.0
+    },
+    {
+      "generation": 2,
+      "best_objective": 1847550.0
+    },
+    {
+      "generation": 3,
+      "best_objective": 1847550.0
+    },
+    {
+      "generation": 4,
+      "best_objective": 1844536.6666666665
+    },
+    {
+      "generation": 5,
+      "best_objective": 1718541.6666666667
+    },
+    {
+      "generation": 6,
+      "best_objective": 1645280.0
+    },
+    {
+      "generation": 7,
+      "best_objective": 1645280.0
+    },
+    {
+      "generation": 8,
+      "best_objective": 1622771.6666666667
+    },
+    {
+      "generation": 9,
+      "best_objective": 1622771.6666666667
+    },
+    {
+      "generation": 10,
+      "best_objective": 1622771.6666666667
+    },
+    {
+      "generation": 11,
+      "best_objective": 1618083.3333333333
+    },
+    {
+      "generation": 12,
+      "best_objective": 1618083.3333333333
+    },
+    {
+      "generation": 13,
+      "best_objective": 1618083.3333333333
+    },
+    {
+      "generation": 14,
+      "best_objective": 1618083.3333333333
+    },
+    {
+      "generation": 15,
+      "best_objective": 1570175.0
+    },
+    {
+      "generation": 16,
+      "best_objective": 1562475.0
+    },
+    {
+      "generation": 17,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 18,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 19,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 20,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 21,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 22,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 23,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 24,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 25,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 26,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 27,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 28,
+      "best_objective": 1453176.6666666665
+    },
+    {
+      "generation": 29,
+      "best_objective": 1390276.6666666667
+    },
+    {
+      "generation": 30,
+      "best_objective": 1390276.6666666667
+    },
+    {
+      "generation": 31,
+      "best_objective": 1377818.3333333333
+    },
+    {
+      "generation": 32,
+      "best_objective": 1377818.3333333333
+    },
+    {
+      "generation": 33,
+      "best_objective": 1377818.3333333333
+    },
+    {
+      "generation": 34,
+      "best_objective": 1377818.3333333333
+    },
+    {
+      "generation": 35,
+      "best_objective": 1377818.3333333333
+    },
+    {
+      "generation": 36,
+      "best_objective": 1377818.3333333333
+    },
+    {
+      "generation": 37,
+      "best_objective": 1306305.0
+    },
+    {
+      "generation": 38,
+      "best_objective": 1306305.0
+    },
+    {
+      "generation": 39,
+      "best_objective": 1306305.0
+    },
+    {
+      "generation": 40,
+      "best_objective": 1306305.0
+    },
+    {
+      "generation": 41,
+      "best_objective": 1306305.0
+    },
+    {
+      "generation": 42,
+      "best_objective": 1306305.0
+    },
+    {
+      "generation": 43,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 44,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 45,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 46,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 47,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 48,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 49,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 50,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 51,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 52,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 53,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 54,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 55,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 56,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 57,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 58,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 59,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 60,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 61,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 62,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 63,
+      "best_objective": 1281176.6666666667
+    },
+    {
+      "generation": 64,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 65,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 66,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 67,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 68,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 69,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 70,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 71,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 72,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 73,
+      "best_objective": 1205560.0
+    },
+    {
+      "generation": 74,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 75,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 76,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 77,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 78,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 79,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 80,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 81,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 82,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 83,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 84,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 85,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 86,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 87,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 88,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 89,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 90,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 91,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 92,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 93,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 94,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 95,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 96,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 97,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 98,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 99,
+      "best_objective": 1123315.0
+    },
+    {
+      "generation": 100,
+      "best_objective": 1123315.0
+    }
+  ],
+  "elapsed_seconds": 0.3648633000002519,
+  "evaluations": 10000,
+  "stopped": "Generation limit",
+  "settings": {
+    "horizon_hours": 24,
+    "turnaround_min": 30,
+    "max_delay_min": 180,
+    "max_flight_hours": 10,
+    "delay_cost_per_min": 50,
+    "unserved_penalty": 100000,
+    "population_size": 100,
+    "generations": 100,
+    "mutation_rate": 0.15,
+    "crossover_rate": 0.9,
+    "elitism": 0.05,
+    "time_limit_seconds": 10,
+    "seed": 42
+  }
+}
